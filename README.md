@@ -13,7 +13,6 @@ You have installed the latest version of [Node.js and npm](https://nodejs.org/en
 
 ### Installation
 *  Execute `npm install`.
-*  Execute `npx playwright install`.
 
 ### Run automation tests locally
 *  Execute all tests: `npx playwright test`.
