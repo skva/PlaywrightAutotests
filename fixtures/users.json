@@ -1,0 +1,27 @@
+{
+  "newUser": {
+    "firstName": "Alden",
+    "lastName": "Cantrell",
+    "email": "test@test.com",
+    "age": "30",
+    "salary": "12345",
+    "department": "QA"
+  },
+  "editUser": {
+    "id": 2,
+    "firstName": "testName",
+    "lastName": "testLastName",
+    "email": "alden@example.com",
+    "age": "45",
+    "salary": "12000",
+    "department": "Compliance"
+  },
+  "apiUser": {
+    "username": "userTest",
+    "password": "Password12#"
+  },
+  "existingUser": {
+    "username": "user_test777",
+    "password": "Password123$5678"
+  }
+}

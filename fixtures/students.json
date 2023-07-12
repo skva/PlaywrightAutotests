@@ -1,0 +1,16 @@
+{
+  "newStudent": {
+    "firstName": "testName",
+    "lastName": "testLastName",
+    "email": "test@test.com",
+    "gender": "Male",
+    "mobile": "0123456789",
+    "birth": "15 January,1990",
+    "subjects": "Playwright",
+    "hobbies": "Reading",
+    "picturePath": "picture.png",
+    "address": "Address",
+    "state": "NCR",
+    "city": "Delhi"
+  }
+}
